@@ -17,7 +17,7 @@ javac -d build/classes -cp src src/*.java
 java -cp build/classes q1   
 
 <b>after mid sem part of assignment</b> can be found in the "ppl" folder.      
-it contains the class diagram too. all classes of this folder have been compiled and executed in netbeans ide 8.0.1.     
+it contains the class diagram too. <i>all classes of this folder have been compiled and executed in netbeans ide 8.0.1.</i>       
 please enter the value of k (as specified in the respective question) and the number of days for question number 5 when prompted. 
 
 documentation can be found in dist folder. 
