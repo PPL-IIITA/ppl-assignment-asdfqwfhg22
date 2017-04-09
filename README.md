@@ -10,7 +10,8 @@ OS type: 64 bit
 
 all codes have been tested on net beans ide 8.0.1
 
-<b>part before midsem</b>     
+<b>part before midsem</b>    
+The class q1 for question 1 is present in "Code" folder. It contains the respective class diagram.   
 type the following commands for linux for the class q1 under the folder code:   
 cd Code   
 javac -d build/classes -cp src src/*.java   
